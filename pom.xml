@@ -19,7 +19,7 @@
         <scala.binary.version>2.11</scala.binary.version>
         <kafka.version>2.2.0</kafka.version>
         <es.version>6.4.0</es.version>
-        <hive.version>1.2.0</hive.version>
+        <hive.version>3.1.2</hive.version>
     </properties>
 
     <dependencies>
